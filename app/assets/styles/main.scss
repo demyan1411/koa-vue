@@ -1,0 +1,20 @@
+/* --------- mixins --------- */
+
+// @import "_includes/mixins";
+
+/* --------- variables --------- */
+
+@import "_includes/variables";
+
+/* --------- fonts --------- */
+
+// @import "_includes/fonts";
+
+/* --------- sections --------- */
+
+@import "sections/normalize";
+
+@import "sections/default";
+@import "sections/layout";
+@import "sections/header";
+@import "sections/footer";
